@@ -22,6 +22,17 @@
         
     
   
+    
+        ,"post2": {
+            "title": "Emaad's First Blog Post",
+            "content": "msg = &quot;Welcome to Jupyter Notebooks!&quot; print(msg) . Welcome to Jupyter Notebooks! .",
+            "url": "https://emaad-mir.github.io/Emaad-Mir-Fastpages/jupyter/2022/08/20/first-nb-test.html",
+            "relUrl": "/jupyter/2022/08/20/first-nb-test.html",
+            "date": " • Aug 20, 2022"
+        }
+        
+    
+  
 
   
   
